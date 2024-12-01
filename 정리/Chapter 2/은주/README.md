@@ -25,7 +25,6 @@ https://m.blog.naver.com/ektjf731/223052793786?recommendTrackingCode=2 <br> http
     > - zippy는 기본적으로 deflate 압축 알고리즘 사용 -> 이는 ZIP 형식에서 가장 일반적으로 사용되는 압축 방식
     > - deflate : 널리 사용되는 무손실 데이터 압축 알고리즘
     > ![alt text](image-1.png)
-<br>
 - 메모리는 빠르지만, **디스크는 아직 느리다**
 - 디스크 탐색은 가능한 한 피하라
 - 단순한 압축 알고리즘은 빠르다    

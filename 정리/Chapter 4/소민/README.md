@@ -33,7 +33,7 @@ HTTP 요청인 경우, API 요청 횟수가 제한 장치에 설정된 임계치
 ## 개략적 설계 (1차)
 
 ### 처리량 제한 프록시
-[![proxy](./images/proxy.png)](./images/proxy.png)
+[![proxy](./images/proxy-2.png)](./images/proxy-2.png)
 
 <details><summary>비교대상: 게이트웨이</summary>
 
